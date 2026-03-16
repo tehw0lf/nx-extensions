@@ -1,3 +1,46 @@
+# 22.0.0 (2026-03-16)
+
+### 🚀 Features
+
+- 1184 add nx 21 support ([4a20602b](https://github.com/tehw0lf/nx-extensions/commit/4a20602b))
+- ⚠️  migrate workspace to Nx 20 ([#1136](https://github.com/tehw0lf/nx-extensions/pull/1136), [#1134](https://github.com/tehw0lf/nx-extensions/issues/1134))
+- **ionic-react:** replace app generator by a config generator ([a808eaae](https://github.com/tehw0lf/nx-extensions/commit/a808eaae))
+- **nuxt:** add first alpha version plugin for nuxt ([94136e01](https://github.com/tehw0lf/nx-extensions/commit/94136e01))
+- migrate to nx 16.6 ([f6daab02](https://github.com/tehw0lf/nx-extensions/commit/f6daab02))
+- **ionic-react:** update to ionic 7 ([c2cdc8d4](https://github.com/tehw0lf/nx-extensions/commit/c2cdc8d4))
+- update to nx 15.2.0 ([eb16e414](https://github.com/tehw0lf/nx-extensions/commit/eb16e414))
+- **nxext:** update to Nx 14.8.5 ([c657fc83](https://github.com/tehw0lf/nx-extensions/commit/c657fc83))
+- **nxext:** move from @nrwl/devkit to @nxext/devkit ([a96856fd](https://github.com/tehw0lf/nx-extensions/commit/a96856fd))
+- **nxext:** use own e2e test runner ([4f49ac9c](https://github.com/tehw0lf/nx-extensions/commit/4f49ac9c))
+- **nxext:** move from @nrwl/devkit to @nxext/devkit ([be72c863](https://github.com/tehw0lf/nx-extensions/commit/be72c863))
+- **ionic-react:** add ionic-react plugin ([28e29a03](https://github.com/tehw0lf/nx-extensions/commit/28e29a03))
+
+### 🩹 Fixes
+
+- **url:** update docs url ([035d8eda](https://github.com/tehw0lf/nx-extensions/commit/035d8eda))
+- add assert-not-using-ts-solution-setup to the generators ([#1140](https://github.com/tehw0lf/nx-extensions/pull/1140))
+- **ionic-react:** move nx deps to peer deps ([e14c576e](https://github.com/tehw0lf/nx-extensions/commit/e14c576e))
+- **ionic-react:** fix build target + fix e2e tests ([2c087507](https://github.com/tehw0lf/nx-extensions/commit/2c087507))
+- **nxext:** fix linting errors and add dependency linting ([303dd3f8](https://github.com/tehw0lf/nx-extensions/commit/303dd3f8))
+
+### ⚠️  Breaking Changes
+
+- generator option `name` is replaced by `directory`, and the minimal required Nx version is `20.x`."
+
+### 🧱 Updated Dependencies
+
+- Updated capacitor to 22.0.0
+
+### ❤️ Thank You
+
+- Abdelaziz Bennouna
+- Dominik Pieper
+- Edouard Bozon
+- Gion
+- Jordan Hall
+- Paweł Twardziak
+- pawel-twardziak
+
 ## 20.1.0 (2025-06-11)
 
 ### 🚀 Features

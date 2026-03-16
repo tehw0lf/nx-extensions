@@ -1,3 +1,26 @@
+# 22.0.0 (2026-03-16)
+
+### 🚀 Features
+
+- 1184 add nx 21 support ([4a20602b](https://github.com/tehw0lf/nx-extensions/commit/4a20602b))
+- **common:** add is-verbose and a terminal-printer for clickable uri ([04bbec9e](https://github.com/tehw0lf/nx-extensions/commit/04bbec9e))
+- ⚠️  migrate workspace to Nx 20 ([#1136](https://github.com/tehw0lf/nx-extensions/pull/1136), [#1134](https://github.com/tehw0lf/nx-extensions/issues/1134))
+
+### 🩹 Fixes
+
+- ts version with minor and patch being flexible ([60686d4f](https://github.com/tehw0lf/nx-extensions/commit/60686d4f))
+- bump deps ([5d7fe4f1](https://github.com/tehw0lf/nx-extensions/commit/5d7fe4f1))
+
+### ⚠️  Breaking Changes
+
+- generator option `name` is replaced by `directory`, and the minimal required Nx version is `20.x`."
+
+### ❤️ Thank You
+
+- Edouard Bozon
+- Paweł Twardziak
+- pawel-twardziak
+
 ## 20.1.0 (2025-06-11)
 
 ### 🚀 Features
